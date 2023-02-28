@@ -24,3 +24,4 @@ let width = null;
 let area = (height ?? 100) * (width ?? 50);
 
 alert(area); // 5000
+//
